@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Adnan-Deuser
+- 👀 I’m interested in Web Development and AI Machine Learning
+- 🌱 I’m currently Pursuing Computer Science Engineering at Sahrdaya College of Engineering and Technology
+- 💞️ I’m looking to collaborate with Anyone Honestly
+- 📫 How to reach me: adnanca00@gmail.com
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: Wearing a tie can reduce blood flow to the brain by 7.5 per cent.
