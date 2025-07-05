@@ -1,5 +1,6 @@
 # 💫 About Me:
-i am currently a student enrolled in Sahrdaya College of Engineering and Technology, studying B.Tech in Computer Science.<br>i am passionate in AI/ML and web Development 
+I am currently pursuing a Bachelor of Technology (B.Tech) in Computer Science at Sahrdaya College of Engineering and Technology. With a strong passion for Artificial Intelligence, Machine Learning, and Web Development, I am dedicated to expanding my knowledge and skills in these cutting-edge fields. I thrive on solving complex problems and am eager to contribute to innovative projects that make a meaningful impact.
+I enjoy collaborating with like-minded peers and continuously seek opportunities to learn and grow. My goal is to leverage technology to create solutions that improve lives and drive progress.
 
 
 ## 🌐 Socials:
