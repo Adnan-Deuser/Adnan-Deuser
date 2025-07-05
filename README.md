@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adnan Ashrafali</h1>
 <h3 align="center">A passionate AI/ML Intern at Golden Bird Education</h3>
 
+- 🔭 I’m currently working on **Python**
+
 - 🌱 I’m currently learning **AI/ML**
+
+- 👯 I’m looking to collaborate on **AI/ML**
+
+- 🤝 I’m looking for help with **Learning**
 
 - 💬 Ask me about **C, C++, Web Development**
 
