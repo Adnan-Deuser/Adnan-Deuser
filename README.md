@@ -1,13 +1,53 @@
-# 💫 About Me:
-I am currently pursuing a Bachelor of Technology (B.Tech) in Computer Science at Sahrdaya College of Engineering and Technology. With a strong passion for Artificial Intelligence, Machine Learning, and Web Development, I am dedicated to expanding my knowledge and skills in these cutting-edge fields. I thrive on solving complex problems and am eager to contribute to innovative projects that make a meaningful impact.
-I enjoy collaborating with like-minded peers and continuously seek opportunities to learn and grow. My goal is to leverage technology to create solutions that improve lives and drive progress.
+<h1 align="center"> 🧑‍🎓 A bit About Myself: </h1>
+<h3 align="center">Currently pursuing a Bachelor of Technology in Computer Science at Sahrdaya College of Engineering and Technology. With an interest in Artificial Intelligence, Machine Learning, and Web Development, I like to solve complex problems, contribute in opensource projects, build projects and learn about other interesting tech in my free time</h3>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-ashrafali-77589b369) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adnanca00@gmail.com) 
+<p align="center">
+  <a href="https://leetcode.com/u/adnanca00/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45"/></a>&nbsp;&nbsp;
+  <a href="mailto:adnanca00@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" height="45"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/adnan-ashrafali-77589b369/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="45"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/adnan_chrysalism/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="45"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/adnanca00"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40"/></a>
+</p>
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<p align="center">
+
+<span style="display:inline-flex; align-items:center; justify-content:center; width:60px; height:60px; background:#00599C; border-radius:14px;">
+  <img src="https://cdn.simpleicons.org/c/white" height="40"/>
+</span> &nbsp;&nbsp;&nbsp;
+
+<span style="display:inline-flex; align-items:center; justify-content:center; width:60px; height:60px; background:#00599C; border-radius:14px;">
+  <img src="https://cdn.simpleicons.org/cplusplus/white" height="40"/>
+</span>&nbsp;&nbsp;&nbsp;
+
+<span style="display:inline-flex; align-items:center; justify-content:center; width:60px; height:60px; background:#E34F26; border-radius:14px;">
+  <img src="https://cdn.simpleicons.org/html5/white" height="40"/>
+</span>&nbsp;&nbsp;&nbsp;
+
+<span style="display:inline-flex; align-items:center; justify-content:center; width:60px; height:60px; background:#1572B6; border-radius:14px;">
+  <img src="https://cdn.simpleicons.org/css/white" height="40"/>
+</span> &nbsp;&nbsp;&nbsp;
+
+<span style="display:inline-flex; align-items:center; justify-content:center; width:60px; height:60px; background:#F7DF1E; border-radius:14px;">
+  <img src="https://cdn.simpleicons.org/javascript" height="40"/>
+</span>&nbsp;&nbsp;&nbsp;
+
+<span style="display:inline-flex; align-items:center; justify-content:center; width:60px; height:60px; background:#000000; border-radius:14px;">
+  <img src="https://cdn.simpleicons.org/express/white" height="40"/>
+</span>&nbsp;&nbsp;&nbsp;
+
+<span style="display:inline-flex; align-items:center; justify-content:center; width:60px; height:60px; background:#61DAFB; border-radius:14px;">
+  <img src="https://cdn.simpleicons.org/react" height="40"/>
+</span>&nbsp;&nbsp;&nbsp;
+
+<span style="display:inline-flex; align-items:center; justify-content:center; width:60px; height:60px; background:#3776AB; border-radius:14px;">
+  <img src="https://cdn.simpleicons.org/python" height="40"/>
+</span>&nbsp;&nbsp;&nbsp;
+
+</p>
+
 
 
 
