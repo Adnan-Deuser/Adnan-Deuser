@@ -1,6 +1,12 @@
 <h1 align="center"> 🧑‍🎓 A bit About Myself: </h1>
 <h3 align="center">Currently pursuing a Bachelor of Technology in Computer Science at Sahrdaya College of Engineering and Technology. With an interest in Artificial Intelligence, Machine Learning, and Web Development, I like to solve complex problems, contribute in opensource projects, build projects and learn about other interesting tech in my free time</h3>
 
+<p align="center">
+  <a href="https://personal-portfolio-two-dusky-72.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Open%20Now-%23ff69b4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
 ![Coding Fun Facts](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=8000&pause=800&color=00CED1&center=true&width=800&lines=💻+There+are+over+700+programming+languages!;🐍+Python+was+named+after+Monty+Python!;🐞+The+first+computer+bug+was+a+real+moth!;🎮+The+first+video+game+was+created+in+1958!;🌐+JavaScript+was+created+in+10+days!;🧠+Ada+Lovelace+was+the+first+programmer!;⚡+C+was+created+in+1972!;📦+Linux+runs+90%+of+supercomputers!;🤖+The+first+AI+program+was+written+in+1951!;📝+The+first+email+was+sent+in+1971!;🔒+The+first+computer+virus+was+Brain+in+1986!;🌈+Some+languages+are+named+after+TV+shows+or+music!;🕹️+The+first+Easter+egg+in+games+was+in+Adventure!;🚀+NASA+still+uses+Fortran!;🎨+CSS+was+first+proposed+in+1994!;🐱+GitHub+Octocat+was+created+in+2008!;⏱+Fortran+was+the+first+high-level+language!;📱+The+first+mobile+app+was+Snake!;🧩+Python+Zen+has+19+principles!;🖥️+The+first+website+is+still+online!;🐧+Linux+mascot+is+Tux!;💾+Debugging+originated+from+removing+real+bugs!;🌍+HTML+was+invented+by+Tim+Berners-Lee!;🤯+The+first+Java+program+was+on+a+toaster!;🏆+ACM+ICPC+is+the+largest+programming+competition!;🐢+Logo+language+used+turtle+graphics!;⚡+Facebook+was+originally+PHP!;🕸+First+spam+email+was+sent+in+1978!;🎵+1951+Ferranti+Mark+I+played+music+with+code!;🌌+NASA+still+uses+assembly+in+space!;🎯+First+bug+bounty+program+launched+in+1995!;🖌+CSS+flexbox+was+created+in+2009!;💡+Stack+Overflow+founded+in+2008!;🐙+Git+was+created+by+Linus+Torvalds+in+2005!)
 ## 🌐 Socials:
 <p align="center">
